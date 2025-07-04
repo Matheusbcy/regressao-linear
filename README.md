@@ -69,5 +69,5 @@ O modelo de regressão linear não apresentou bom desempenho ao prever a variáv
 ---
 
 **Fonte dos dados:** [UCI Parkinson Telemonitoring Dataset](https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring)  
-**Autor:** Matheus Freitas 
+**Autor:** Matheus Freitas  
 **Curso:** Machine Learning / Ciência de Dados - IA EXPERT ACADEMY
